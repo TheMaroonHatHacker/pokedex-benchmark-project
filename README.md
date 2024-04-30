@@ -4,7 +4,7 @@ This project aims to provide a realistic Next.js workload for benchmarking build
 
 **Prerequisites:**
 
-- Node.js (LTS version 18 is recommended at the time of writing)
+- Node.js
 
 **Installation:**
 
